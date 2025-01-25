@@ -2,3 +2,6 @@
 안녕하세요 제 이름은 정은서 입니다. 
 Hello world! // branch_2의 변경 사항입니다.
 Hello! //branch_1의 변경 사항입니다.
+Hi! //branch_2의 두번째 변경 사항입니다.
+
+
